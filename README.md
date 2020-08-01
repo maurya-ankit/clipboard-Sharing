@@ -7,4 +7,7 @@ just **clone** the repository and run following command
 > ```python run.py```<br>
 Scan QRCODE Shown on your screen with help of your smartphone's google lense or any other qrcode scanner app.
 
+# here is a sample QrCode , scan this if you want.
+![](sample.png)
+
 Keep watching the Repository , I will add more feature soon. <3
